@@ -1,6 +1,5 @@
-<img src="https://raw.githubusercontent.com/Bears0haunt/Bears0haunt/master/assets/Bears0haunt%20Vikram%20Singh%20Banner.png">
 
-<h2> Hey there! I'm Bears0haunt.</h2>
+### Hi there I'm [Changming Xiao](https://akhilgkrishnan.me)👋
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -12,8 +11,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 - 🛢 &nbsp;
@@ -31,8 +29,6 @@
 
 <a href="https://github.com/Bears0haunt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bears0haunt&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bears0haunt&theme=buefy&layout=compact" />
-</a>
 
 <br/>
 
