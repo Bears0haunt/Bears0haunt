@@ -25,7 +25,7 @@
 <br/>
 
 <a href="https://github.com/Bears0haunt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bears0haunt&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bears0haunt&theme=buefy&show_icons=true&count_private=true" />
 
 <br/>
 
