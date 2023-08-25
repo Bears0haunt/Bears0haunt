@@ -1,5 +1,5 @@
 
-### Hi there I'm [Changming Xiao](https://akhilgkrishnan.me)👋
+### Hi there I'm Changming Xiao👋
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
